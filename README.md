@@ -74,6 +74,4 @@ ai-data-analyzer/
 
 ---
 
-## ⚠️ Note
 
-Never share or commit your `.env` file. It is already excluded via `.gitignore`.
